@@ -1,0 +1,14 @@
+{
+  "name": "directus-minimal",
+  "version": "1.0.0",
+  "description": "Docker container to demonstrate running directus",
+  "repository": "https://github.com/keesvanbemmel/directus-docker.git",
+  "author": "Kees van Bemmel",
+  "license": "MIT",
+  "dependencies": {
+    "directus": "^9.3.0"
+  },
+  "scripts": {
+    "start": "npx directus bootstrap; npx directus start"
+  }
+}
