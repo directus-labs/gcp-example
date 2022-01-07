@@ -6,7 +6,7 @@
   "author": "Kees van Bemmel",
   "license": "MIT",
   "dependencies": {
-    "directus": "^9.3.0"
+    "directus": "^9.4.2"
   },
   "scripts": {
     "start": "npx directus bootstrap; npx directus start"
