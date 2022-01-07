@@ -6,3 +6,5 @@ Keep in mind, this will use a non persistent SQLite database inside the containe
 
 [![Run Directus in Google Cloud Run](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/)
 
+After deploying you can login with `admin@example.com` and `localpassword`
+
