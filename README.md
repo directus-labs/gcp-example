@@ -8,3 +8,5 @@ Keep in mind, this will use a non persistent SQLite database inside the containe
 
 After deploying you can login with `admin@example.com` and `localpassword`
 
+More info in proper deployment can be found in the [Directus documentation](https://docs.directus.io/getting-started/installation/gcp/).
+
