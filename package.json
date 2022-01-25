@@ -1,12 +1,12 @@
 {
-  "name": "directus-minimal",
+  "name": "directus-gcp",
   "version": "1.0.0",
-  "description": "Docker container to demonstrate running directus",
-  "repository": "https://github.com/keesvanbemmel/directus-docker.git",
+  "description": "Docker container to demonstrate running directus in GCP",
+  "repository": "https://github.com/directus-community/gcp-example",
   "author": "Kees van Bemmel",
   "license": "MIT",
   "dependencies": {
-    "directus": "^9.4.3"
+    "directus": "^9.5.0"
   },
   "scripts": {
     "start": "npx directus bootstrap; npx directus start"
